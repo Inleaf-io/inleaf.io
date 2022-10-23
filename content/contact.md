@@ -10,7 +10,7 @@ author = "Corentin"
 p, label { color: rgba(0, 0, 0, 0.61); }
 </style>
 
-<form method="post" action="https://forms.un-static.com/forms/b0e359fc18e9e05aeeca1f0b944b24ff2714c6a8">
+<form method="post" action="https://forms.un-static.com/forms/54151ff991857cd15a128e5ebb2807210bcafeaa">
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Name</label>
     <div class="col-8">
