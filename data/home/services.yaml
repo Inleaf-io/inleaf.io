@@ -1,0 +1,18 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our services"
+  text: "Work less, do more. We propose a full managed software, hosted, managed."
+  cards:
+    - image: "images/Loading-amico.png"
+      title: "Native JAMF synchronization"
+      text: "We keep your assets database up to date, follow your assets and users history thanks to our continuous synchronization !"
+
+    - image: "images/Personalization-amico.png"
+      title: "Get Support, let us help you"
+      text: "We provide different support type depending of your knowledges and skills, you can switch from one to another without any restriction !"
+
+    - image: "images/Online world-amico.png"
+      title: "Register all kind of devices"
+      text: "Even if we provide a Jamf native integration, we allow you to use other device management systems so you can have all in one place !"

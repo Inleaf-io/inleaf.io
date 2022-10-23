@@ -1,0 +1,20 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/3515447.jpg"
+    pretitle: "Dashboard"
+    title: "Centralize your data in one place"
+    text: "Get an unified dashaboard admin where all your users can retrieve your assets informations ! Ask for a custom theme to match your brand identity !"
+
+
+  - image: "images/3573406.jpg"
+    pretitle: "Security"
+    title: "Security is our priority"
+    text: "Your datas are safe ! Astak access through SSO, groups permissions to manage users, history logs, encrypted datas stored, 14 days backup, audit logs and more !"
+
+
+  - image: "images/Programming-amico.png"
+    pretitle: "API"
+    title: "Automatize everything"
+    text: "Astak has an integrated API which allow you to automatize your workflow ! Create you alerts, generate KPIs, monitore your stock, follow your expenses !"

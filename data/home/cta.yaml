@@ -1,0 +1,10 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Use Astak now!"
+  image: "images/Server-bro.png"
+  button:
+    label: "Discover our packages
+"
+    url: "/pricing"

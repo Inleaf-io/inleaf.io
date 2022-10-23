@@ -1,0 +1,86 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Astak.io"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  title: "Astak"
+  description: "We provide great Jamf compatible (but not only) SaaS asset management tool. Get your assets in one place, follow their lifecycle and get your KPIs in time !"
+  images: 
+    - "images/hero-image.png"
+
+  logo: "logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "Rue de Cheux, 14000 Caen, France"
+
+  contact:
+    - "contact@astak.io"
+
+  copyright: "© 2022 Astak, a Frozen Bear product."
+
+  postProcess: false
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Who we are"
+      url: "/about"
+      weight: 2
+
+    - name: "Pricing"
+      url: "/pricing"
+      weight: 3
+
+    - name: "Ask for a demo"
+      url: "/contact"
+      weight: 4
+
+  buttons:
+    - name: "Login"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "Who we are"
+      url: "/about"
+      weight: 2
+
+    - name: "Pricing"
+      url: "/pricing"
+      weight: 3
+
+    - name: "Contact"
+      url: "/contact"
+      weight: 4
+
+taxonomies:
+  series: "series"
+  tags: "tags"

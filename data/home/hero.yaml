@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Master your **assets**, give you free time !"
+  text: "**Astak** is a great, **Jamf** compatible (but **not only**), SaaS assets management tool. Get your **assets** in **one place**, follow their **lifecycle**, your **stock**, and get your **KPIs** in time !"
+
+  buttonPrimary:
+    label: "Ask for a demo"
+    url: "/contact"
+
+  buttonSecondary:
+    label: "Discover our packages"
+    url: "/pricing"
+
