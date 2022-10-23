@@ -2,7 +2,7 @@
 title = "Contact us"
 description = "Tell us more !"
 date = "2019-02-28"
-aliases = ["packages", "pricing", "astak"]
+aliases = ["packages", "pricing", "Inleaf"]
 author = "Corentin"
 +++
 

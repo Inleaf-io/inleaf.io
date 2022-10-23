@@ -1,8 +1,8 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://inleaf.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Astak.io"
+title: "Inleaf.io"
 
 # googleAnalytics: ""
 
@@ -12,7 +12,7 @@ markup:
     renderer:
       unsafe: true
 params:
-  title: "Astak"
+  title: "Inleaf"
   description: "We provide great Jamf compatible (but not only) SaaS asset management tool. Get your assets in one place, follow their lifecycle and get your KPIs in time !"
   images: 
     - "images/hero-image.png"
@@ -34,9 +34,9 @@ params:
     - "Rue de Cheux, 14000 Caen, France"
 
   contact:
-    - "contact@astak.io"
+    - "hello@inleaf.io"
 
-  copyright: "© 2022 Astak, a Frozen Bear product."
+  copyright: "© 2022 Inleaf, a Frozen Bear product."
 
   postProcess: false
 

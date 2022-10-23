@@ -11,10 +11,10 @@ content:
   - image: "images/3573406.jpg"
     pretitle: "Security"
     title: "Security is our priority"
-    text: "Your datas are safe ! Astak access through SSO, groups permissions to manage users, history logs, encrypted datas stored, 14 days backup, audit logs and more !"
+    text: "Your datas are safe ! Inleaf access through SSO, groups permissions to manage users, history logs, encrypted datas stored, 14 days backup, audit logs and more !"
 
 
   - image: "images/Programming-amico.png"
     pretitle: "API"
     title: "Automatize everything"
-    text: "Astak has an integrated API which allow you to automatize your workflow ! Create you alerts, generate KPIs, monitore your stock, follow your expenses !"
+    text: "Inleaf has an integrated API which allow you to automatize your workflow ! Create you alerts, generate KPIs, monitore your stock, follow your expenses !"

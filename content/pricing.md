@@ -2,7 +2,7 @@
 title = "Pricing"
 description = "Our differents packages"
 date = "2019-02-28"
-aliases = ["packages", "pricing", "astak"]
+aliases = ["packages", "pricing", "Inleaf"]
 author = "Corentin"
 +++
 
@@ -72,7 +72,7 @@ p, li { color: rgba(0, 0, 0, 0.61); }
   <ul class="price">
     <li class="header" style="background-color:#018673">Basic</li>
     <li class="grey">€ 9.99 / month / device</li>
-    <li>Up to 3 Astak users</li>
+    <li>Up to 3 Inleaf users</li>
     <li>Up to 50 devices</li>
     <li>Jamf integration</li>
     <li>7 days backup</li>
@@ -84,12 +84,12 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#FF87B0">Pro</li>
-    <li class="grey">€ 49.99 / month / device</li>
+    <li class="grey">€ 29.99 / month / device</li>
     <li>All Basic features</li>
-    <li>Unlimited Astak users</li>
+    <li>Unlimited Inleaf users</li>
     <li>Unlimited support</li>
     <li>Up to 500 devices</li>
-    <li>Astak APIs</li>
+    <li>Inleaf APIs</li>
     <li>SSO authentification</li>
     <li>14 days backup</li>
     <li class="grey"><a href="/contact" class="button">Choose</a></li>
@@ -99,7 +99,7 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
-    <li class="grey">€ 89.99 / month / device</li>
+    <li class="grey">€ 49.99 / month / device</li>
     <li>All Pro features</li>
     <li>Unlimited devices</li>
     <li>Custom Alerting</li> 

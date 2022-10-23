@@ -1,8 +1,8 @@
 +++
 title = "Who we are"
-description = "It's all about Astak !"
+description = "It's all about Inleaf !"
 date = "2019-02-28"
-aliases = ["about-us", "who we are", "astak"]
+aliases = ["about-us", "who we are", "Inleaf"]
 author = "Hugo Authors"
 +++
 
@@ -14,15 +14,15 @@ p { color: rgba(0, 0, 0, 0.61); }
 <img src="/Team-spirit-pana.png" alt="drawing" style="width:500px;"/>
 </center>
 
-We are **Astak** !
+We are **Inleaf** !
 
 We are a small French company specialized in software development, system administration and cyber security!
 We decided to put at your disposal our knowledge to accompany you in the evolution of your needs by trying to simplify and automate them.
 
 We are passionate people who try to reduce to zero the management of time-consuming tasks.
 
-We are a very young company, we created Astak in 2022 and are just starting our great adventure!
+We are a very young company, we created Inleaf in 2022 and are just starting our great adventure!
 
 Thank you for trusting us!
 
-Corentin @Astak founder 
+Corentin @Inleaf founder 

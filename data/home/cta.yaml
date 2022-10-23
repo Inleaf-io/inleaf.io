@@ -2,7 +2,7 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Use Astak now!"
+  title: "Use Inleaf now!"
   image: "images/Server-bro.png"
   button:
     label: "Discover our packages
