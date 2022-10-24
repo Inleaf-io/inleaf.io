@@ -84,7 +84,7 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#FF87B0">Pro</li>
-    <li class="grey">€ 29.99 / month / device</li>
+    <li class="grey">€ 19.99 / month / device</li>
     <li>All Basic features</li>
     <li>Unlimited Inleaf users</li>
     <li>Unlimited support</li>
@@ -99,7 +99,7 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
-    <li class="grey">€ 49.99 / month / device</li>
+    <li class="grey">€ 39.99 / month / device</li>
     <li>All Pro features</li>
     <li>Unlimited devices</li>
     <li>Custom Alerting</li> 
