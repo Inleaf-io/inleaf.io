@@ -47,3 +47,13 @@ p, label { color: rgba(0, 0, 0, 0.61); }
   </div>
 </center>
 </form>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XL5C408EK9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XL5C408EK9');
+</script>
