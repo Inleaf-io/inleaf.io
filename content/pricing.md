@@ -71,7 +71,8 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#018673">Basic</li>
-    <li class="grey">€ 19.99 / month</li>
+    <li class="grey">19.99€ / month<br><i>
+    <div class="grey" style="font-size:15px">+ 0.99€ /device</div></i></li>
     <li>Up to 3 Inleaf users</li>
     <li>Up to 50 devices</li>
     <li>Jamf integration</li>
@@ -84,7 +85,8 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#FF87B0">Pro</li>
-    <li class="grey">€ 39.99 / month</li>
+    <li class="grey">€ 39.99 / month <br><i>
+    <div class="grey" style="font-size:15px">+ 0.99€ /device</div></i></li>
     <li>All Basic features</li>
     <li>Unlimited Inleaf users</li>
     <li>Unlimited support</li>
@@ -99,7 +101,8 @@ p, li { color: rgba(0, 0, 0, 0.61); }
 <div class="columns">
   <ul class="price">
     <li class="header">Premium</li>
-    <li class="grey">€ 59.99 / month</li>
+    <li class="grey">€ 59.99 / month<br><i>
+    <div class="grey" style="font-size:15px">+ 0.99€ /device</div></i></li>
     <li>All Pro features</li>
     <li>Unlimited devices</li>
     <li>Custom Alerting</li> 
